@@ -1,0 +1,21 @@
+=======Conditional Statement======
+
+if(condition){
+    Statement
+}
+
+else{
+    Statement
+}
+
+else if (condition){
+    Statement
+}
+
+else if(condition){
+    Statement
+}
+
+Rahim => Bike => Dinner
+Karim => Car  => Tour >>> Cos's Bazar
+Rafiq => Cycle => Field
